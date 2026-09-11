@@ -1,0 +1,43 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#05070D"/>
+  <circle cx="200" cy="150" r="300" fill="#00F0FF" fill-opacity="0.08"/>
+  <circle cx="1000" cy="500" r="350" fill="#818CF8" fill-opacity="0.08"/>
+
+  <!-- Neural Lines -->
+  <line x1="100" y1="100" x2="300" y2="250" stroke="#38BDF8" stroke-opacity="0.15" stroke-width="1.5"/>
+  <line x1="300" y1="250" x2="600" y2="150" stroke="#38BDF8" stroke-opacity="0.15" stroke-width="1.5"/>
+  <line x1="600" y1="150" x2="900" y2="300" stroke="#818CF8" stroke-opacity="0.15" stroke-width="1.5"/>
+  <line x1="900" y1="300" x2="1100" y2="150" stroke="#818CF8" stroke-opacity="0.15" stroke-width="1.5"/>
+
+  <!-- Badge -->
+  <rect x="80" y="70" width="360" height="36" rx="18" fill="#0B0F19" stroke="#00F0FF" stroke-opacity="0.3"/>
+  <circle cx="100" cy="88" r="6" fill="#00F0FF"/>
+  <text x="116" y="94" fill="#38BDF8" font-family="monospace" font-size="14" font-weight="600" letter-spacing="1">AI DEVELOPER &amp; SYSTEMS BUILDER</text>
+
+  <!-- Main Name -->
+  <text x="80" y="220" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="64" font-weight="900" letter-spacing="-1">Haroon Shirzad</text>
+
+  <!-- Tagline -->
+  <text x="80" y="280" fill="#38BDF8" font-family="monospace" font-size="26" font-weight="600">“I don't just use AI tools. I build systems with them.”</text>
+
+  <!-- Description -->
+  <text x="80" y="340" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="20">Practical AI Applications • Flutter Mobile • Autonomous Agents • Workflow Automation</text>
+
+  <!-- Tech tags -->
+  <rect x="80" y="420" width="160" height="40" rx="8" fill="#0B0F19" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="100" y="445" fill="#E2E8F0" font-family="monospace" font-size="14">Flutter &amp; Dart</text>
+
+  <rect x="255" y="420" width="140" height="40" rx="8" fill="#0B0F19" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="275" y="445" fill="#E2E8F0" font-family="monospace" font-size="14">AI Agents</text>
+
+  <rect x="410" y="420" width="200" height="40" rx="8" fill="#0B0F19" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="430" y="445" fill="#E2E8F0" font-family="monospace" font-size="14">Gemini &amp; DeepSeek</text>
+
+  <rect x="625" y="420" width="170" height="40" rx="8" fill="#0B0F19" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="645" y="445" fill="#E2E8F0" font-family="monospace" font-size="14">n8n Automation</text>
+
+  <!-- Footer Divider -->
+  <line x1="80" y1="520" x2="1120" y2="520" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+  <text x="80" y="560" fill="#64748B" font-family="monospace" font-size="14">Official Portfolio &amp; AI Laboratory</text>
+  <text x="960" y="560" fill="#00F0FF" font-family="monospace" font-size="16" font-weight="600">haroonshirzad.dev</text>
+</svg>
