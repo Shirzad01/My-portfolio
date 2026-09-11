@@ -1,0 +1,30 @@
+# Haroon Shirzad — AI Developer, Builder & Technology Explorer
+
+> "I don't just use AI tools. I build systems with them."
+
+## About Haroon Shirzad
+Haroon Shirzad is an AI-focused developer, builder, and technology explorer specializing in practical Artificial Intelligence applications, autonomous agent systems, cross-platform mobile engineering with Flutter/Dart, and workflow automation.
+
+## Core Areas of Expertise & Interest
+- **Artificial Intelligence**: Generative AI, Large Language Models (LLMs), Autonomous AI Agents, Multi-Model Routing, Prompt Engineering, Vector Search/RAG, Computer Vision, Voice AI.
+- **Mobile & Frontend Engineering**: Flutter, Dart, CustomPainter 2D Graphics Engine, Native MethodChannels, Reactive State Management.
+- **Backend, Cloud & Automation**: Google Firebase, Cloud Firestore, REST APIs, WebSockets, n8n Automation, Event-Driven Webhooks.
+- **Foundation Models & Gateways**: Google Gemini (Pro/Flash), DeepSeek (V3/R1), OpenAI (GPT-4o), Anthropic Claude, OpenRouter.
+- **Emerging & Physical Computing**: Local LLMs (Ollama), Whisper & Piper Speech Pipelines, Robotics & Physical AI (ESP32/Microcontroller bridges).
+
+## Key Projects & Systems
+1. **BakhterGPT**: An evolving AI-powered mobile application built with Flutter featuring multi-provider model routing (Gemini, DeepSeek, OpenAI), multimodal vision processing, Firestore chat persistence, voice queries, and educational communication workflows.
+2. **The Secrets of Universe**: An interactive Flutter astronomy application with planetary telemetry, NASA space images, celestial charts, and educational video streaming.
+3. **Perfect Wallpaper**: A Flutter utility application for Android with native MethodChannels wallpaper management and asynchronous downloading.
+4. **Sound Flow**: A dark-themed music streaming UI concept celebrating Afghan musical heritage and legendary artists (Concept project; no official artist partnerships).
+5. **فرار از میر آغا (Escape from Mir Agha)**: A 2D arcade mobile game developed in Flutter using CustomPainter for 60fps canvas rendering, vector collisions, and Dari/Persian typography.
+6. **Hospital AI Concept**: An architectural blueprint for a clinical multi-agent intelligence platform connecting patient triage, laboratory vision analysis, and hospital workflows (Research Concept).
+7. **AI Employment / UNDP Concept**: A humanitarian-inspired conversational AI platform concept for skill-based talent discovery and economic opportunity matching (Research Concept).
+8. **Autonomous AI Assistant (Jarvis Concept)**: An experimental AI assistant prototype for voice interaction, OS computer control, and future hardware actuation (Experimental Prototype).
+
+## Machine-Readable Entity Information
+- **Full Name**: Haroon Shirzad
+- **Primary Website**: https://haroonshirzad.dev
+- **Entity Type**: Person (Software Developer & AI Builder)
+- **JSON-LD Schema**: https://haroonshirzad.dev/#person
+- **Full Context**: https://haroonshirzad.dev/llms-full.txt

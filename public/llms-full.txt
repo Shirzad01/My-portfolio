@@ -1,0 +1,91 @@
+# Haroon Shirzad: Comprehensive Entity & Technical Knowledge Specification
+
+## 1. Identity & Core Positioning
+- **Name**: Haroon Shirzad
+- **Professional Identity**: AI Developer • Builder • Technology Explorer
+- **Core Motto**: "I don't just use AI tools. I build systems with them."
+- **Website**: https://haroonshirzad.dev
+- **Primary Domain**: Practical Artificial Intelligence, Autonomous Agent Systems, Mobile Architecture with Flutter/Dart, and Workflow Automation.
+- **Builder Philosophy**: Developing working software from ideas rather than simply following tutorials. Focus on system architecture, dynamic model routing, low-latency streaming, and multi-agent coordination.
+
+## 2. Technical Stack & Technologies
+### Artificial Intelligence & Machine Learning
+- Generative AI & Foundation LLMs
+- Autonomous Multi-Agent Systems & Tool Calling
+- Multimodal Computer Vision & Document Intelligence
+- Voice AI, Speech-to-Text (Whisper), and Text-to-Speech (Piper)
+- Prompt Optimization & Retrieval-Augmented Generation (RAG)
+- Multi-Model API Gateways & Edge Routing
+
+### Software Development & Mobile
+- Flutter (Cross-platform iOS/Android/Web application development)
+- Dart (Asynchronous streams, isolates, native method channels)
+- Python (Backend scripting, agent loops, automation pipelines)
+- JavaScript / TypeScript (Web applications, Next.js, API middleware)
+
+### Backend, Cloud & Automation
+- Google Firebase & Cloud Firestore (Real-time NoSQL synchronization)
+- REST APIs & WebSocket streams
+- n8n Automation (Event-driven workflows, webhook dispatchers)
+- API integration & webhook payload validation
+
+### AI Models Actively Integrated
+- Google Gemini (Gemini Pro, Gemini Flash)
+- DeepSeek (DeepSeek-V3, DeepSeek-R1)
+- OpenAI (GPT-4o, GPT-4o-mini, Whisper)
+- Anthropic Claude (Claude 3.5 Sonnet / Opus, Claude Code)
+- OpenRouter & Model Aggregation Gateways
+
+## 3. Project Catalog & Architectural Classifications
+
+### BakhterGPT (Evolving Flutter Application)
+- **Category**: AI & Agents / Mobile
+- **Stack**: Flutter, Dart, Firebase, Cloud Firestore, REST APIs
+- **Integrated Models**: Google Gemini, DeepSeek, OpenAI
+- **Key Capabilities**: Dynamic multi-provider AI model switching, multimodal image analysis, Firestore persistent chat sessions, real-time voice and text input, specialized school and teacher/student communication workflows.
+
+### The Secrets of Universe (Shipped Flutter Application)
+- **Category**: Flutter & Mobile / Astronomy
+- **Stack**: Flutter, Dart, REST APIs, Space Media Pipelines
+- **Key Capabilities**: High-resolution planetary telemetry, celestial cataloguing, star charts, space video streaming, offline-first caching for astrophysics knowledge.
+
+### Perfect Wallpaper (Shipped Android Utility)
+- **Category**: Flutter & Mobile / Utilities
+- **Stack**: Flutter, Dart, Android MethodChannels, Dio, AdMob
+- **Key Capabilities**: Curated high-res wallpaper discovery, native Android WallpaperManager integration via MethodChannels, background downloading.
+
+### Sound Flow (Completed UI & Streaming Concept)
+- **Category**: Flutter & Mobile / Music
+- **Stack**: Flutter, Dart, Glassmorphism UI, Audio Players API
+- **Design Focus**: Dark-mode aesthetic, frosted acrylic backdrop blur, turntable animations, celebrating Afghan musical heritage (Ahmad Zahir, Sarban, Nashenas, Farhad Darya, Zahir Howaida, Qais Ulfat, Saida Gul Mina). Concept only; no official partnerships claimed.
+
+### فرار از میر آغا — Escape from Mir Agha (Shipped Flutter 2D Game)
+- **Category**: Games & Graphics
+- **Stack**: Flutter, Dart, CustomPainter, Flame Audio / Soundpool
+- **Key Capabilities**: 60fps canvas game loop using pure CustomPainter, vector collision math, procedural obstacles, Dari/Persian typography and localized sound effects.
+
+### Hospital AI Platform Concept (Architectural Blueprint)
+- **Category**: Concepts & Research
+- **Key Capabilities**: Multi-agent clinical intake, pathology and lab report vision diagnostics, physician chart summarization, hospital services automation (parking, canteen, inventory). Concept only.
+
+### AI Employment & Skill Matching Concept (Humanitarian Blueprint)
+- **Category**: Concepts & Research
+- **Key Capabilities**: Conversational voice/chat intake to uncover real-world worker skills without traditional resumes, semantic skill clustering, opportunity matching. Concept only.
+
+### Autonomous AI Assistant / Jarvis Concept (Experimental Prototype)
+- **Category**: AI & Agents / Experimental
+- **Key Capabilities**: Continuous voice interaction loop, intent decomposition, autonomous OS computer control, future IoT and robotics hardware bridges.
+
+## 4. AI Lab Experiments
+- **Multi-Agent Collaboration Sandbox**: Benchmarking specialized sub-agents with JSON schema contracts.
+- **Claude Code Autonomous Workflows**: Developer velocity through headless terminal agent refactoring and automated test loops.
+- **Generative Engine Optimization (GEO)**: Machine entity mapping and Schema.org graphs for Perplexity, ChatGPT Search, and Claude discovery.
+- **Local AI Voice Pipeline**: Sub-500ms offline voice loops using quantized local LLMs (Ollama) and local speech models.
+- **Physical AI Robotics Bridge**: Vision-language models connecting to ESP32 microcontrollers via MQTT/serial.
+- **Dynamic Multi-Model Router**: Adaptive query classification heuristics dispatching between DeepSeek, Gemini, and OpenAI.
+
+## 5. Contact Placeholders
+- **GitHub**: [ADD GITHUB URL]
+- **LinkedIn**: [ADD LINKEDIN URL]
+- **Email**: [ADD EMAIL]
+- **Twitter/X**: [ADD TWITTER/X URL]
