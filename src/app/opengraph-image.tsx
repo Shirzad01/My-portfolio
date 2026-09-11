@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const runtime = "nodejs";
+export const runtime = "edge";
 
 export const alt = "Haroon Shirzad — AI Developer • Builder • Technology Explorer";
 export const size = {
