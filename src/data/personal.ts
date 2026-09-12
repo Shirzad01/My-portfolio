@@ -42,8 +42,8 @@ export const personalData = {
     "Experimental Technology Projects"
   ],
   socialLinks: {
-    github: "[ADD GITHUB URL]",
-    linkedin: "[ADD LINKEDIN URL]",
+    github: "https://github.com/Shirzad01",
+    linkedin: "",
     email: "[ADD EMAIL]",
     twitter: "[ADD TWITTER/X URL]",
     discord: "[ADD DISCORD USERNAME]"

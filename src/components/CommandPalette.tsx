@@ -123,7 +123,7 @@ export const CommandPalette: React.FC<CommandPaletteProps> = ({ isOpen, onClose 
                       <div className="text-white font-semibold flex items-center gap-2">
                         {p.title}
                         {p.nativeTitle && (
-                          <span className="text-[10px] text-purple-300">({p.nativeTitle})</span>
+                          <span className="text-[10px] text-purple-300">(<span lang="fa" dir="rtl">{p.nativeTitle}</span>)</span>
                         )}
                       </div>
                       <div className="text-[11px] text-slate-400 truncate max-w-md">{p.tagline}</div>

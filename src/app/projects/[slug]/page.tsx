@@ -34,12 +34,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!project) {
     return {
-      title: "Project Not Found | Haroon Shirzad",
+      title: "Project Not Found",
     };
   }
 
   return {
-    title: `${project.title} — System Architecture & Details | Haroon Shirzad`,
+    title: `${project.title} — System Architecture & Details`,
     description: project.description,
     alternates: {
       canonical: `https://haroonshirzad.dev/projects/${project.slug}`,
@@ -106,7 +106,7 @@ export default async function ProjectDetailPage({ params }: Props) {
       <JsonLd data={breadcrumbSchema} />
       <Navbar />
 
-      <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
+      <main id="main-content" tabIndex={-1} className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
         {/* Navigation Breadcrumb */}
         <div className="mb-8">
           <Link
@@ -134,7 +134,7 @@ export default async function ProjectDetailPage({ params }: Props) {
               {project.status}
             </span>
             {project.nativeTitle && (
-              <span className="px-3 py-1 rounded-full text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/30">
+              <span lang="fa" dir="rtl" className="px-3 py-1 rounded-full text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/30">
                 {project.nativeTitle}
               </span>
             )}

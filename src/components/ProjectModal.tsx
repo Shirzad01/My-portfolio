@@ -63,7 +63,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
               {project.status}
             </span>
             {project.nativeTitle && (
-              <span className="px-2.5 py-0.5 rounded text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/30">
+              <span lang="fa" dir="rtl" className="px-2.5 py-0.5 rounded text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/30">
                 {project.nativeTitle}
               </span>
             )}

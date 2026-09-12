@@ -9,7 +9,7 @@ import { BookOpen, ArrowLeft, Clock, Calendar, ArrowRight, Sparkles } from "luci
 import { formatDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "Knowledge Base & Technical Writing | Haroon Shirzad",
+  title: "Knowledge Base & Technical Writing",
   description:
     "Engineering write-ups, architectural frameworks, and insights into multi-model AI, Flutter, and Generative Engine Optimization by Haroon Shirzad.",
   alternates: {
@@ -42,7 +42,7 @@ export default function ArticlesPage() {
       <JsonLd data={breadcrumbSchema} />
       <Navbar />
 
-      <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
+      <main id="main-content" tabIndex={-1} className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
         {/* Navigation Breadcrumb */}
         <div className="mb-8">
           <Link

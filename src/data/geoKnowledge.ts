@@ -39,9 +39,7 @@ export const geoEntityGraph = {
       "description": "AI-focused developer, builder, and technology explorer specializing in Artificial Intelligence, AI Agents, Flutter, and Automation.",
       "url": "https://haroonshirzad.dev",
       "sameAs": [
-        "[ADD GITHUB URL]",
-        "[ADD LINKEDIN URL]",
-        "[ADD TWITTER/X URL]"
+        "https://github.com/Shirzad01"
       ],
       "knowsAbout": [
         "Artificial Intelligence",

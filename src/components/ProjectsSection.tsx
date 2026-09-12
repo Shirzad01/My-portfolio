@@ -112,7 +112,7 @@ export const ProjectsSection: React.FC = () => {
                     {project.title}
                   </h3>
                   {project.nativeTitle && (
-                    <span className="inline-block mt-1 px-2 py-0.5 rounded text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/20">
+                    <span lang="fa" dir="rtl" className="inline-block mt-1 px-2 py-0.5 rounded text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/20">
                       {project.nativeTitle}
                     </span>
                   )}

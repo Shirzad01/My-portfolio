@@ -8,7 +8,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { FlaskConical, ArrowLeft, Terminal, CheckCircle2, Compass, Cpu, Sparkles } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "AI Lab & Research Sandbox | Haroon Shirzad",
+  title: "AI Lab & Research Sandbox",
   description:
     "Experimental prototypes, autonomous agent research, local AI pipelines, physical AI bridges, and Generative Engine Optimization testbeds by Haroon Shirzad.",
   alternates: {
@@ -41,7 +41,7 @@ export default function LabPage() {
       <JsonLd data={breadcrumbSchema} />
       <Navbar />
 
-      <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
+      <main id="main-content" tabIndex={-1} className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
         {/* Navigation Breadcrumb */}
         <div className="mb-8">
           <Link

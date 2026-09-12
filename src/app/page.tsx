@@ -29,7 +29,7 @@ export default function HomePage() {
       <Navbar onOpenCommandPalette={() => setCommandPaletteOpen(true)} />
 
       {/* Hero Section */}
-      <main id="main-content">
+      <main id="main-content" tabIndex={-1}>
         <Hero />
 
         {/* About Section */}

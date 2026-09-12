@@ -25,12 +25,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!article) {
     return {
-      title: "Article Not Found | Haroon Shirzad",
+      title: "Article Not Found",
     };
   }
 
   return {
-    title: `${article.title} | Haroon Shirzad`,
+    title: article.title,
     description: article.summary,
     alternates: {
       canonical: `https://haroonshirzad.dev/articles/${article.slug}`,
@@ -114,7 +114,7 @@ export default async function ArticleDetailPage({ params }: Props) {
       <JsonLd data={breadcrumbSchema} />
       <Navbar />
 
-      <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
+      <main id="main-content" tabIndex={-1} className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
         {/* Navigation Breadcrumb */}
         <div className="mb-8">
           <Link

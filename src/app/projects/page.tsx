@@ -8,7 +8,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { Code2, ArrowLeft, ArrowRight, Layers, Eye, Sparkles, Terminal } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Projects & System Architectures | Haroon Shirzad",
+  title: "Projects & System Architectures",
   description:
     "Explore AI-powered mobile applications, multi-model systems, Flutter graphics, and research concepts built by Haroon Shirzad.",
   alternates: {
@@ -41,7 +41,7 @@ export default function ProjectsPage() {
       <JsonLd data={breadcrumbSchema} />
       <Navbar />
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
+      <main id="main-content" tabIndex={-1} className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-24 flex-grow w-full">
         {/* Navigation Breadcrumb */}
         <div className="mb-8">
           <Link
@@ -94,7 +94,7 @@ export default function ProjectsPage() {
                   {project.title}
                 </h2>
                 {project.nativeTitle && (
-                  <span className="inline-block mb-2 px-2 py-0.5 rounded text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/20">
+                  <span lang="fa" dir="rtl" className="inline-block mb-2 px-2 py-0.5 rounded text-xs font-mono bg-purple-500/10 text-purple-300 border border-purple-500/20">
                     {project.nativeTitle}
                   </span>
                 )}

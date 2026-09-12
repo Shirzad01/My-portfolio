@@ -112,9 +112,9 @@ check("src/data/technologies.ts exists", fs.existsSync(techDataPath), "Missing t
 
 if (fs.existsSync(personalDataPath)) {
   const pContent = fs.readFileSync(personalDataPath, "utf8");
-  check("Uses placeholders for unconfirmed links ([ADD GITHUB URL], etc.)",
-    pContent.includes("[ADD GITHUB URL]") && pContent.includes("[ADD EMAIL]"),
-    "Missing explicit placeholders for unprovided URLs"
+  check("GitHub uses verified real profile URL; unconfirmed links stay placeholders (no fabrication)",
+    pContent.includes("https://github.com/Shirzad01") && pContent.includes("[ADD EMAIL]"),
+    "GitHub profile URL not verified, or an unconfirmed link was fabricated instead of left as a placeholder"
   );
 }
 
