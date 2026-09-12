@@ -102,6 +102,9 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    google: "0UOHZJn7eaFnzhP8cCDPNBiBjU-VAKlGBkBpZuAMGAM",
+  },
 };
 
 export default function RootLayout({
@@ -120,6 +123,12 @@ export default function RootLayout({
         <link rel="author" href="https://haroonshirzad.dev" />
       </head>
       <body className="bg-[#05070D] text-slate-100 font-sans antialiased min-h-screen selection:bg-cyan-500/30 selection:text-white">
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[100] focus:rounded-lg focus:bg-cyber-cyan focus:px-4 focus:py-2 focus:font-mono focus:text-sm focus:font-semibold focus:text-slate-950 focus:shadow-neon-cyan focus:outline-none focus:ring-2 focus:ring-cyber-cyan focus:ring-offset-2 focus:ring-offset-[#05070D]"
+        >
+          Skip to main content
+        </a>
         {children}
       </body>
     </html>
